@@ -1,0 +1,185 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: '9A7055B85EDF535E3A5E64321EAFA087',
+    participant: undefined
+  },
+  messageTimestamp: 1697657015,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: '9A7055B85EDF535E3A5E64321EAFA087',
+    participant: undefined
+  },
+  messageTimestamp: 1697657015,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Prueba',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Prueba',
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: '19B824D7F5C3BA357FAFEEE91DAB0DA6',
+    participant: undefined
+  },
+  messageTimestamp: 1697657043,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Menú',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menú',
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: '6E0E36B9B3905C5DC239FCA1BFDA2522',
+    participant: undefined
+  },
+  messageTimestamp: 1697659671,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: 'EFB7CAFC4718C539715DDE46DCD2F409',
+    participant: undefined
+  },
+  messageTimestamp: 1697659683,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: 'C49CE321CC820BEFFB04C3E5B6E25E47',
+    participant: undefined
+  },
+  messageTimestamp: 1697659734,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    conversation: '556',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '556',
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: 'B63C218B64CE944D8A14F579E5558B88',
+    participant: undefined
+  },
+  messageTimestamp: 1697659741,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: '98910393D1D67D312FA1754923E927C1',
+    participant: undefined
+  },
+  messageTimestamp: 1697659753,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573104564933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573104564933@s.whatsapp.net',
+    fromMe: false,
+    id: '167BF40003ADC631F6A8BB2C557FB207',
+    participant: undefined
+  },
+  messageTimestamp: 1697659785,
+  pushName: 'Felipe Ordoñez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Juan',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Juan',
+  from: '573104564933'
+}
